@@ -15,3 +15,4 @@ namespace MyAdvPro3.My3Dbcontext
         public DbSet<CarsModel> Cars { get; set; }// transfer to db
     }
 }
+//Inside Startup.cs and appsetting.json you must make the connection with database  
